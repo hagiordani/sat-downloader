@@ -1,0 +1,2 @@
+# Para hacer peticiones HTTP/descargas
+requests
